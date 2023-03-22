@@ -1,6 +1,7 @@
 
 body{
     background: #F2F2F2;
+    font-family: 'SpoqaHanSansNeo-Regular';
 }
 div.login-modal-wrap{
     width: 520px; height: 712px;
@@ -19,6 +20,23 @@ div.login-modal-wrap header{
 }
 div.login-modal-wrap header  h1,span{
     margin-left: auto;
+}
+div.login-modal-wrap header h1{
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    font-weight: 500;
+}
+div.login-modal-wrap header span{
+    cursor: pointer;
+    font-size: 16px;
+}
+
+main .id-pw-wrap p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
 }
 
 
