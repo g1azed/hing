@@ -1,0 +1,25 @@
+
+body{
+    background: #F2F2F2;
+}
+div.login-modal-wrap{
+    width: 520px; height: 712px;
+    margin: 100px auto 100px auto;
+    background: #fff;
+    border: 1px solid #c4c4c4;
+    border-radius: 10px;
+}
+div.login-modal-wrap header{
+    width: 100%; 
+    padding: 20px 24px;
+    display: flex;
+    border-bottom: 1px solid #c4c4c4;
+    box-sizing: border-box;
+
+}
+div.login-modal-wrap header  h1,span{
+    margin-left: auto;
+}
+/* div.login-modal-wrap header span{
+    margin-left: auto;
+} */
