@@ -18,7 +18,7 @@ div.login-modal-wrap header{
     box-sizing: border-box;
 
 }
-div.login-modal-wrap header  h1,span{
+div.login-modal-wrap header  h1,button{
     margin-left: auto;
 }
 div.login-modal-wrap header h1{
@@ -27,7 +27,7 @@ div.login-modal-wrap header h1{
     color: #000;
     font-weight: 500;
 }
-div.login-modal-wrap header span{
+div.login-modal-wrap header button{
     cursor: pointer;
     font-size: 16px;
 }
